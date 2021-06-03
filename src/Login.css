@@ -1,0 +1,22 @@
+.Login{
+    display: grid;
+    place-content: center;
+    height:100vh;
+    background:black;
+}
+.Login > img{
+   
+    width:100%;
+}
+.Login > a{
+    text-transform: uppercase;
+    display:grid;
+    text-align: center;
+    padding:20px;
+    font-size: large;
+    background:black;
+    font-weight: 700;
+    color:white;
+    text-decoration: none;
+
+}
